@@ -1,4 +1,5 @@
-def bubble_sort arr
+# Bubble Sort Algorithm
+def bubble_sort(arr)
   return arr if arr.size <= 1
 
   len = arr.size - 2
@@ -15,7 +16,7 @@ def bubble_sort arr
   arr
 end
 
-def bubble_sort_by (arr)
+def bubble_sort_by(arr)
   return arr if arr.size <= 1
 
   len = arr.size - 1
@@ -34,6 +35,6 @@ def bubble_sort_by (arr)
 end
 
 arr = %w[hi hello hey]
-print bubble_sort_by(arr) {|left, right| left.length - right.length}
+print bubble_sort_by(arr) { |left, right| left.length - right.length }
 unsorted = [10, 4, 6, 8, 5, 2, 4, 6, 8, 9, 22]
 print bubble_sort unsorted
