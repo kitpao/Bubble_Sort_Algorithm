@@ -32,7 +32,8 @@ The project was developed using the following technologies:
 <!-- CONTACT -->
 ## Contact
 <p align="center">
-Project Link: [https://github.com/YairFernando67/Bubble_Sort_Algorithm](https://github.com/YairFernando67/Bubble_Sort_Algorithm)
+Project Link: [YairFernando67/Bubble_Sort_Algorithm](https://github.com/YairFernando67/Bubble_Sort_Algorithm)
+
 </p>
 <p align="center">
   Yair Fernando Facio Fraga - [YairFernando67](https://github.com/YairFernando67) - <a target="_blank"      href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yair.facio11@gmail.com" class="tooltip"  title="Email me">
