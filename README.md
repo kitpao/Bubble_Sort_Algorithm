@@ -37,12 +37,12 @@ The project was developed using the following technologies:
 
 </p>
 <p align="center">
-
-  Yair Fernando Facio Fraga - [YairFernando67](https://github.com/YairFernando67) - <a target="_blank"      href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yair.facio11@gmail.com" class="tooltip"  title="Email me">
-    yair.facio11@gmail.com
-  </a>
+  Yair Fernando Facio - [YairFernando67](https://github.com/YairFernando67)
 </p>
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
+    <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yair.facio11@gmail.com">
+      yair.facio11@gmail.com
+    </a> &nbsp; |
     <a target="_blank" href="https://yairfernando67.github.io/Portfolio/">
         Portfolio
     </a> &nbsp; |
@@ -54,12 +54,12 @@ The project was developed using the following technologies:
     </a>
 </p>
 <p align="center">
-
-  Kitzia Paola Vidal Marroquin - [kitpao](https://github.com/kitpao) - <a target="_blank"      href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kitpao91@gmail.com" class="tooltip"  title="Email me">
-    kitpao91@gmail.com
-  </a>
+  Kitzia Paola Vidal Marroquin - [kitpao](https://github.com/kitpao)
 </p>
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
+    <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kitpao91@gmail.com">
+      kitpao91@gmail.com
+    </a> &nbsp; |
     <a target="_blank" href="https://github.com/kitpao/Personal_Projects">
         Portfolio
     </a> &nbsp; |
