@@ -1,4 +1,4 @@
-# Bubble Sort Algorithm
+# frozen_string_literal: true
 def bubble_sort(arr)
   return arr if arr.size <= 1
 
