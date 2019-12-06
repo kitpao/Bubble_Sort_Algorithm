@@ -37,6 +37,7 @@ The project was developed using the following technologies:
 
 </p>
 <p align="center">
+
   Yair Fernando Facio Fraga - [YairFernando67](https://github.com/YairFernando67) - <a target="_blank"      href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yair.facio11@gmail.com" class="tooltip"  title="Email me">
     yair.facio11@gmail.com
   </a>
@@ -53,6 +54,7 @@ The project was developed using the following technologies:
     </a>
 </p>
 <p align="center">
+
   Kitzia Paola Vidal Marroquin - [kitpao](https://github.com/kitpao) - <a target="_blank"      href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kitpao91@gmail.com" class="tooltip"  title="Email me">
     kitpao91@gmail.com
   </a>
