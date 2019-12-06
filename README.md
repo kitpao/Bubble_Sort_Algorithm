@@ -14,12 +14,14 @@
   </p>
 </p>
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 - [About the Project](#about-the-project)
   - [Built With](#built-with)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 In this project we make an implementation of the bubble sort algorithm as a way to use yield:
 
